@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.testing.hobbyappdeveloper" version="0.1.0">
+  <name>Hobbyappdeveloper</name>
+  <description>
+    This is my first tutorial to create an app
+  </description>
+  <author email="farhanbinkhalid@gmail.com">
+    Farhan Bin Khalid
+  </author>
+</widget>
