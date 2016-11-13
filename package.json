@@ -1,7 +1,7 @@
 {
   "name": "hobbyappdeveloper",
   "version": "0.1.0",
-  "main": "src/app.js",
+  "main": "app.js",
   "private": true,
   "scripts": {
     "start": "http-server -c-1 -d false"
